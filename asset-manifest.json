@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.f94cb881.chunk.js",
-    "main.js.map": "/static/js/main.f94cb881.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a74facfc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a74facfc.js.map",
-    "static/js/2.b09ccf47.chunk.js": "/static/js/2.b09ccf47.chunk.js",
-    "static/js/2.b09ccf47.chunk.js.map": "/static/js/2.b09ccf47.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1c75f8d2419232f431a0de3a129a3a9a.js": "/precache-manifest.1c75f8d2419232f431a0de3a129a3a9a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.b09ccf47.chunk.js.LICENSE.txt": "/static/js/2.b09ccf47.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.36fdbc98.svg"
+    "main.js": "/clone-discord/static/js/main.f94cb881.chunk.js",
+    "main.js.map": "/clone-discord/static/js/main.f94cb881.chunk.js.map",
+    "runtime-main.js": "/clone-discord/static/js/runtime-main.6f54f3ca.js",
+    "runtime-main.js.map": "/clone-discord/static/js/runtime-main.6f54f3ca.js.map",
+    "static/js/2.c1f3dfed.chunk.js": "/clone-discord/static/js/2.c1f3dfed.chunk.js",
+    "static/js/2.c1f3dfed.chunk.js.map": "/clone-discord/static/js/2.c1f3dfed.chunk.js.map",
+    "index.html": "/clone-discord/index.html",
+    "precache-manifest.c1a0d60c9169df90398cef054e06e13c.js": "/clone-discord/precache-manifest.c1a0d60c9169df90398cef054e06e13c.js",
+    "service-worker.js": "/clone-discord/service-worker.js",
+    "static/js/2.c1f3dfed.chunk.js.LICENSE.txt": "/clone-discord/static/js/2.c1f3dfed.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/clone-discord/static/media/logo.36fdbc98.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a74facfc.js",
-    "static/js/2.b09ccf47.chunk.js",
+    "static/js/runtime-main.6f54f3ca.js",
+    "static/js/2.c1f3dfed.chunk.js",
     "static/js/main.f94cb881.chunk.js"
   ]
 }
